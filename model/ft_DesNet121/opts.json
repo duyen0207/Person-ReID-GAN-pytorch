@@ -1,0 +1,7 @@
+{
+ "name": "ft_DesNet121",
+ "data_dir": "Market-1501-v15.09.15/pytorch",
+ "batchsize": 64,
+ "erasing_p": 0.8,
+ "use_dense": true
+}
